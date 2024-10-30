@@ -1,0 +1,45 @@
+.ctcl-phone-pay-orders{
+    margin-left: -9px!important;
+text-align: center!important;
+}
+.ctcl-pending-phone-order td{
+    text-align:center;
+}
+
+.pending-phone-payment-fieldset legend{
+    padding-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+.ctcl-phone-pay-detail{
+    border:1px dashed rgba(0,0,0,1);
+    padding:10px;
+    margin:10px;
+}
+
+.ctcl-phone-pay-row{
+    display:block;
+    height:30px;
+}
+
+.ctcl-phone-pay-row span{
+
+    width:140px;
+    max-width:49%;
+}
+
+.ctcl-phone-pay-row input{
+    float:right;
+}
+
+.ctcl-phone-pay-button-row span:first-child{
+
+    float:left;
+
+}
+.ctcl-phone-pay-button-row span:last-child{
+
+    float:right;
+
+}
